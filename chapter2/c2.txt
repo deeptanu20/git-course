@@ -1,0 +1,11 @@
+
+✨Retrive an Entire repo from a hosted location via URL
+ 
+    🎇//command : [git clone <url>]
+
+✨Unstage a file while retaining the changes in working directory
+
+   🎇//command : [git reset <file>]
+
+
+

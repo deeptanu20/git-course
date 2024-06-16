@@ -1,0 +1,59 @@
+
+Git and Github are different
+
+✨GIT :Git is a version control system that is used to track changes to your file.
+✨GITHUB :Github is a web-based hosting service for Git Repositories.An online platform 
+where user can store or share your code with others.
+
+
+✨Check your Git version
+  
+  🎇//command : [git --version]
+
+
+
+✨ SETUP & INIT
+
+ Initialize exiting directory as a Git Repositories
+
+ 🎇//command : [git init] 
+
+ 
+
+ ✨Check Current state of your Repositories
+
+  🎇//command  : [git status]
+
+
+✨Check Your config Setting
+
+ 🎇//command : [git config --list]
+
+
+✨Add a file as it looks now to your next commit
+
+ 🎇//command : [git add .]  or  [git add <file name>]
+
+
+ ✨Commit
+
+ 🎇//command : [git commit -m "message"]
+
+
+ ✨Check History of your Repositories
+
+ 🎇//command : [git log]
+ 
+
+ ✨ To show only the commit messages 
+
+ 🎇//command : [git log --oneline]
+ 
+
+
+
+
+
+
+
+

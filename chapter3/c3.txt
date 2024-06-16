@@ -1,0 +1,20 @@
+
+    ✨🎊 Creating a new Branch
+
+
+✨Lists of all the branches of current repo
+
+    🎇//command : [git branch]
+
+ ✨ Creating a new Branch
+
+    🎇//command : [git branch <branch name>]
+
+  ✨ Switching a one Branch to another Branch
+
+    🎇//command : [git switch <branch name>]  or [git checkout <branch name>]
+
+  ✨Direct Create and Switch branch
+
+     🎇//command : [git switch -c <branch name>]
+
