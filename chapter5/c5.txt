@@ -1,0 +1,58 @@
+Git diff is an informative command that shows the difference between two commits
+
+
+✨Comparing Working Directory and Staging Area
+
+🎇//command : [git diff]
+
+✨Comparing  Staging Area with Repo
+
+🎇//command : [git diff --staged]
+
+✨Comparing  between Branches
+
+🎇//command : [git diff <branch-name-one> <branch-name-two>]
+
+
+
+
+Git Stash: it ia a way of save your changes in a temporary location.
+
+
+🎇//command : [git stash]
+
+✨Naming the Stash
+
+🎇//command : [git stash save "message"]
+
+✨View stash List
+
+🎇//command : [git stash list]
+
+✨Drop the Stash
+
+🎇//command : [git stash drop]
+
+
+Git Tag: it is the way to mark a specific point in your repository
+
+✨Creating a tag
+
+ git tag <tag-name>
+
+ ✨List all tag
+
+🎇//command : [git tag]
+
+
+✨Push tag to remote repo
+
+🎇//command : [git push origin <tag-name>]
+
+✨Delete a tag
+
+🎇//command : [git tag -d <tag-name>]
+
+
+
+

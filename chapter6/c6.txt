@@ -1,0 +1,20 @@
+
+✨🎉Rewrite History
+
+  🎇Rewrite branches updating commits and clearing History
+
+              🎇//command : [git rebase <branch-name>]
+
+ ✨🎉Git reflog: It is a command that shows you the history of your commits.
+
+             🎇//command : [git reflog]
+
+
+✨ Find Specific commit:
+
+              🎇//command : [git reflog <commit-hash>]
+
+
+
+
+

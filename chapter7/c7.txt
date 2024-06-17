@@ -1,0 +1,23 @@
+
+# GITHUB
+
+
+✨Check Remote url setting
+
+    🎇//command : [git remote -v]
+
+✨Add Remote Repo 
+
+    🎇//command : [git remote add origin <remote-url>]  
+
+✨Push Code
+
+    🎇//command : [git push -u origin main]
+
+✨Fetch Code
+
+    🎇//command : [git fetch <remote-name>]   
+
+✨Pull Code    
+
+    🎇//command : [git pull origin main]  

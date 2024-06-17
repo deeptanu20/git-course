@@ -1,0 +1,12 @@
+
+✨Merging Branches
+
+   🎇//command : [git merge <branch name>]
+
+✨Rename a Branch
+
+   🎇//command : [git branch -m <old-branch-name> <new branch name>]
+
+✨Delete a branch
+
+    🎇//command : [git branch -d <branch-name>]

@@ -1,1 +1,7 @@
-# Learn Git and GitHub
+# Learn Git and GitHub 💻
+
+ 📌 By Deeptanu Bhatta 😎
+
+
+
+ 
